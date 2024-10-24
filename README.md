@@ -61,4 +61,4 @@ Feel free to submit issues or pull requests for improvements.
 
 Author
 Developed by Theofanis Kantzaris
-For any inquiries, contact: your.email@example.com
+For any inquiries, contact: faniskantz@gmail.com
