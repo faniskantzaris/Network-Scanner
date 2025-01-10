@@ -61,5 +61,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Feel free to submit issues or pull requests for improvements.
 
 # Author
-Developed by Theofanis Kantzaris
-For any inquiries, contact: faniskantz@gmail.com
+Developed by Nul1sh
+For any inquiries, contact: faniskantzarakis@gmail.com
