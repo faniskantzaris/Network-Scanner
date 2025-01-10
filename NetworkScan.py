@@ -59,7 +59,7 @@ def main():
        ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═╝╚══════╝╚══════╝
 
     Welcome to TRISEILE Scan Tool!
-    Developed by Theofanis Kantzaris
+    Developed by Nul1sh
     Version 1.0
     """)
 
